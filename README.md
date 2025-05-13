@@ -1,9 +1,11 @@
 ---
 layout: home
-title: 理財小筆記
+title: FIRE筆記
 permalink: /
 ---
 
 
 
-## 測試
+## 關於
+
+這是一個記錄FIRE財富自由相關的準備筆記
