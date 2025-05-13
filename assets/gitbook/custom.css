@@ -159,7 +159,8 @@
 
 .book.font-family-0 {
     /*font-family: Georgia, serif;*/
-    font-family: "LXGW WenKai Mono TC", monospace;
+    font-family: "Noto Serif TC", serif;
+    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
 }
