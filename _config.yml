@@ -12,7 +12,9 @@ gitbook_version:  3.2.3
 url:              'https://ukilue.github.io'
 baseurl:          '/blog'
 rss:              RSS
-
+tracker:
+  google_analytics: "G-EYX0S3XT9J"
+  
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
 
