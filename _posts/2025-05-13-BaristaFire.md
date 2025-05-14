@@ -7,8 +7,6 @@ category: 財務規劃
 layout: post
 ---
 
-# ☕ Barista FIRE：用半退休計劃打造理想生活
-
 近年來，FIRE（Financial Independence, Retire Early，財務獨立、提早退休）運動風靡全球，其中「Barista FIRE」更是深受年輕世代與追求生活彈性者喜愛。這篇文章將帶你了解 Barista FIRE 的精神、實際執行方式、財務模型，以及它的優點與潛在風險，幫助你評估這是否是你理想人生的解方。
 
 ---
