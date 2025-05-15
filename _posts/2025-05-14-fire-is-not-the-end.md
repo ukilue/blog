@@ -3,7 +3,7 @@ title: "FIRE 不是終點，而是起點：我在財務自由後重新找回生�
 author: Claire
 date: 2025-05-14
 tags: [FIRE, 半退休, 副業, 在家賺錢]
-category: 財務規劃
+category: proposal
 layout: post
 ---
 
