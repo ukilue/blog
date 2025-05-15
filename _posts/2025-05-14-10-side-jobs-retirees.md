@@ -3,7 +3,7 @@ title: "退休生活也能精彩！10個有趣又好執行的副業推薦"
 author: Claire
 date: 2025-05-14
 tags: [FIRE, 半退休, 副業, 在家賺錢]
-category: 財務規劃
+category: sideline
 layout: post
 ---
 
