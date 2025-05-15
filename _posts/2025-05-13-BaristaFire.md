@@ -3,7 +3,7 @@ title: "Barista FIRE：用半退休計劃打造理想生活"
 author: Claire
 date: 2025-05-13
 tags: [FIRE, 半退休, 財務自由, 生活設計]
-category: 財務規劃
+category: proposal
 layout: post
 ---
 
